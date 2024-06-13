@@ -1,0 +1,27 @@
+header{
+    display: flex;
+    height: 10vh;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #979797;
+    border-radius: 2rem;
+    position: fixed;
+    top: 0;
+    z-index: 2;
+
+}
+header > nav{
+ width: 90vw;
+ 
+
+}
+
+header > nav > ul{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+header > nav > ul > li{
+list-style-type: none;
+
+}
