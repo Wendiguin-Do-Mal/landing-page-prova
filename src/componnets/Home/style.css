@@ -1,5 +1,18 @@
-section{
-background-color: blue;
+#section-home{
+    margin-top: 4rem;
+    background-color: rgb(205, 205, 228);
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    border-radius: 2rem;
+    
+    
 
-
+}
+#section-home> div{
+    padding: 1rem;
+}
+#section-home> img{
+    border-radius: 1rem;
+    
 }

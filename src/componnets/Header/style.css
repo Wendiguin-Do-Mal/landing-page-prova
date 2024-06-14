@@ -1,17 +1,23 @@
 header{
     display: flex;
-    height: 10vh;
+    height: 9vh;
+    width: auto;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: center;
     background-color: #979797;
     border-radius: 2rem;
     position: fixed;
     top: 0;
+    left: 5%;
     z-index: 2;
+   
 
 }
 header > nav{
+    
  width: 90vw;
+ background-color: #979797;
+ 
  
 
 }
@@ -19,6 +25,7 @@ header > nav{
 header > nav > ul{
     display: flex;
     justify-content: space-evenly;
+    background-color: #979797;
 
 }
 header > nav > ul > li{

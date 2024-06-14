@@ -1,0 +1,27 @@
+#section-contact{
+margin-top: 1rem;
+display: flex;
+flex-direction: column;
+
+
+
+}
+#section-contact> div{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+
+}
+#section-contact> div > div{
+
+    background-color: #b7b7d4;
+    padding: 1rem;
+    margin: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2rem;
+    
+}

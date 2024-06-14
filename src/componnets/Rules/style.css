@@ -1,0 +1,45 @@
+#section-rules{
+    margin-top: 1rem;
+    background-color: rgb(205, 205, 228);
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    border-radius: 2rem;
+}
+#section-rules> h3{
+    font-size: 1.6rem;
+    margin: 1rem;
+
+
+}
+#section-rules> div {
+background-color: #b7b7d4;
+border-radius: 3rem;
+display: flex;
+flex-direction: row;
+padding: 2rem;
+}
+#section-rules> div > div{
+display: flex;
+background-color: #cdcde4;
+border-radius: 1rem;
+flex-direction: column;
+padding: 1.5rem;
+
+margin: 0.5rem;
+align-items: start;
+
+}
+#section-rules> div > div> p{
+    margin: 0.5rem;
+    font-size: 1.2em;
+    display: flex;
+    
+
+
+
+}
+#section-rules> div > div> ul> li{
+margin-bottom: 0.5rem;
+
+}

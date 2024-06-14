@@ -1,0 +1,12 @@
+#section-about{
+    display: flex;
+    background-color: #cdcde4;
+    margin-top: 1rem;
+    flex-direction: column;
+}
+#section-about> div> p{
+background-color: #b7b7d4;
+padding: 1rem;
+border-radius: 1rem;
+
+}
