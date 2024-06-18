@@ -13,6 +13,11 @@
   margin-top: 1rem;
 
 
+
+}
+.button-default> a{
+  text-decoration: none;
+  color: purple;
 }
 .box-default{
   padding: 2rem;
@@ -36,6 +41,12 @@
 .h2-default{
   font-size: 2.3rem;
 
+
+
+}
+.h3-default{
+  font-size: 2rem;
+  padding: 1rem;
 
 
 }

@@ -9,15 +9,15 @@ function contact() {
       <div>
         <div >
           <p className='p-default'>nosso Whatsapp:</p>
-          <a href=""> <img src="src\assets\whatsapp (3).png" alt="" />   </a>
+          <a href="https://www.bing.com/ck/a?!&&p=eecf2282642edfafJmltdHM9MTcxODU4MjQwMCZpZ3VpZD0wM2EzNjVkNy1iZWFiLTYwNGEtMmZhZi03NDI0YmY3NjYxNWEmaW5zaWQ9NTIwNw&ptn=3&ver=2&hsh=3&fclid=03a365d7-beab-604a-2faf-7424bf76615a&psq=whatsapp&u=a1aHR0cHM6Ly93ZWIud2hhdHNhcHAuY29tLw&ntb=1"> <img src="src\assets\whatsapp (3).png" alt="" />   </a>
         </div>
         <div>
           <p className='p-default'>nosso Instagram:</p>
-          <a href=""><img src="src\assets\instagram (2).png" alt="" /></a>
+          <a href="https://www.instagram.com/"><img src="src\assets\instagram (2).png" alt="" /></a>
         </div>
         <div>
           <p className='p-default'>e nosso twitter:</p>
-          <a href=""><img src="src\assets\twitter.png" alt="" /></a>
+          <a href="https://www.bing.com/ck/a?!&&p=8ba215330b32a7beJmltdHM9MTcxODU4MjQwMCZpZ3VpZD0wM2EzNjVkNy1iZWFiLTYwNGEtMmZhZi03NDI0YmY3NjYxNWEmaW5zaWQ9NTIwNQ&ptn=3&ver=2&hsh=3&fclid=03a365d7-beab-604a-2faf-7424bf76615a&psq=twitter&u=a1aHR0cHM6Ly90d2l0dGVyLmNvbS8&ntb=1"><img src="src\assets\twitter.png" alt="" /></a>
         </div>
       </div>
       

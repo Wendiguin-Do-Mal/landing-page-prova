@@ -12,7 +12,7 @@ function home() {
 
     </div>
     <img src="src\assets\Amarelo e Roxo Gamer Moderno MMORPG Miniatura para YouTube.png" alt="" />
-    <button type="button" className='button-default'>se inscreva ja!!</button>
+    <button type="button" className='button-default'><a href="#section-form">se inscreva ja!!</a></button>
 
 
         

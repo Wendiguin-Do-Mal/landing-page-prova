@@ -22,7 +22,7 @@ function about() {
 
 
         </p>
-        <button type="button" className='button-default'>Estamos te esperando!!</button>
+        <button type="button" className='button-default'><a href="#section-form">Estamos te esperando!!</a></button>
 
 
       </div>

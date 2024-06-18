@@ -1,0 +1,77 @@
+#section-curiosity{
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+
+}
+#section-curiosity> h2{
+    margin: 1rem;
+}
+#section-curiosity> div{
+    display: flex;
+    flex-direction: column;
+    background-color: #b7b7d4;
+    border-radius: 3rem;
+    padding-bottom: 1rem;
+    
+
+}
+.div-curiosity{
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: center;
+   
+    margin: 1rem;
+
+
+}
+.div-curiosity> div{
+    display: flex;
+    flex-direction: column;
+   
+    margin: 1rem;
+    width: 30rem;
+    background-color: #cdcde4;
+    border-radius: 2rem;
+    padding: 2rem;
+    
+    
+
+}
+.div-curiosity> div >h3{
+    margin: 0.5rem;
+
+    
+}
+.div-games{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+
+}
+.div-games> div{
+    display: flex;
+    flex-direction: row;
+    margin: 0.5rem;
+    background-color: #cdcde4;
+    border-radius: 2rem;
+    padding: 2rem;
+    
+    
+   
+    justify-content: center;
+}
+.div-games> div> img{
+    border-radius: 1.5rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.p-title{
+    font-size: 2rem;
+    margin: 0.7;
+    padding: 1rem;
+}
+
+
