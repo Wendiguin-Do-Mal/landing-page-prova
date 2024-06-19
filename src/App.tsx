@@ -1,6 +1,8 @@
 
 import './App.css'
+import'./componnets/animation.css'
 import About from './componnets/About'
+import BackgroundAnimated from './componnets/BackgroundAnimeted'
 import Contact from './componnets/Contact'
 import Curiosity from './componnets/Curiosity'
 import Form from './componnets/Form'
@@ -13,7 +15,12 @@ function App() {
 
   return (
     <>
-    <div>
+    <div style={{
+      display:"flex",
+      flexDirection:"column",
+      backgroundColor:"#000000",
+      }}>
+        <BackgroundAnimated/>
       <Header/>
       <Home/>
       <About/>

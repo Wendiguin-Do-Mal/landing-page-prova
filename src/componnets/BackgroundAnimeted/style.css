@@ -1,0 +1,11 @@
+#backgroundAnimated{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    height: 1px;
+    width: 1px;
+    background-color: #000000;
+    border-radius: 50%;
+    box-shadow: -24vw -44vh 2px 2px #f5a6ff,38vw -4vh 0px 0px #fb11ff,-20vw -48vh 1px 2px #f5a6ff,-39vw 38vh 3px 1px #f5a6ff,-42vw -11vh 0px 3px #f5a6ff,12vw 15vh 3px 3px #f5a6ff,42vw 6vh 3px 2px #f5a6ff,-8vw 9vh 0px 2px #7f08d9,34vw -38vh 1px 0px #af07cd,-17vw 45vh 3px 1px #691dcd,22vw -36vh 3px 2px #bf0eff,-42vw 1vh 1px 0px #a70cef;
+	animation: zoom 2s alternate infinite;
+}

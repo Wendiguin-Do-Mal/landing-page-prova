@@ -5,7 +5,7 @@ function rules() {
 
     <section id="section-rules" className="box-default">
         <h1 className="h1-default"> Regras para participar:</h1>
-        <h3>Para garantir um ambiente justo e transparente, bem como para promover uma experiência positiva para todos os participantes, é importante estabelecer regulamentos e diretrizes claras para a JamFest. Aqui estão elas:</h3>
+        <h3 className="h2-default">Para garantir um ambiente justo e transparente, bem como para promover uma experiência positiva para todos os participantes, é importante estabelecer regulamentos e diretrizes claras para a JamFest. Aqui estão elas:</h3>
         <div>
 
           <h3>Regras Gerais </h3>

@@ -57,7 +57,7 @@ function curiosity() {
                 para a 7 Day FPS Game Jam em 2013 e ganhou bastante
                 reconhecimento.
               </p>
-              <img src="https://i.ytimg.com/vi/1E1wUkezp5I/hqdefault.jpg" width={240} height={240}  alt="" />
+              <img src="https://th.bing.com/th/id/OIP.-t7m0wn5aZyfZ3JqmpiX6AHaEK?rs=1&pid=ImgDetMain" width={240} height={240}  alt="" />
             </div>
             <div>
                 <img src="https://th.bing.com/th/id/OIP.Z8UpBY3B4f_igns09hUnYgAAAA?rs=1&pid=ImgDetMain"width={240} height={240} alt="" />
@@ -86,8 +86,8 @@ function curiosity() {
 
             </div>
           </div>
-          <h2>Achou o mundo das Game jams incrivel?</h2>
-          <h2>então não perca a oportunidade. venha e se casdatre agora e tenha uma experiencia unica!!!! </h2>
+          <h2 className="h2-default">Achou o mundo das Game jams incrivel?</h2>
+          <h2 className="h2-default">então não perca a oportunidade. venha e se casdatre para a JamFest agora mesmo e tenha uma experiencia unica!!!! </h2>
           <button type="button" className='button-default'><a href="#section-form">Estamos te esperando!!</a></button>
       </div>
     </section>

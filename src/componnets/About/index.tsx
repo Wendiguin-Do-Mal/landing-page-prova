@@ -4,7 +4,7 @@ function about() {
   return (
 
     <section id='section-about' className='box-default'>
-        <h1 className='h1-default'> sobre o Evento JamFest</h1>
+        <h1 className='h1-default'> Sobre o Evento JamFest</h1>
       <div>
         <p className='p-default'>
           

@@ -1,6 +1,5 @@
 #section-rules{
     margin-top: 1rem;
-    background-color: rgb(205, 205, 228);
     display: flex;
     flex-direction: column;
     padding: 2rem;
@@ -15,22 +14,26 @@
 #section-rules> div {
 display: flex;
 flex-direction: column;
-background-color: #b7b7d4;
+background-color:#f8ce26;
 border-radius: 3rem;
 padding-bottom: 1rem;
 
 }
 #section-rules> div >h3{
     font-size: 2rem;
+    transition: 3s;
+    animation:brilharTextoH3 3s infinite ;
+    color: #ffa125;
 
 }
 
 #section-rules> div >div{
-background-color: #b7b7d4;
+
 border-radius: 3rem;
 display: flex;
 flex-direction: row;
-padding: 1rem;
+padding: 0.5rem;
+
 
 
 }
@@ -47,13 +50,15 @@ justify-content: center;
 }
 #section-rules> div > div> div{
 display: flex;
-background-color: #cdcde4;
+background-color: #ffde59;
 border-radius: 1rem;
 flex-direction: column;
-padding: 1.5rem;
-width: 30rem;
+padding: 1.2rem;
+width: 28rem;
 
-margin: 0.3rem;
+
+margin: 0.2rem;
+
 align-items: start;
 
 }

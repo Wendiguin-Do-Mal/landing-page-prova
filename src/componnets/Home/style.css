@@ -1,6 +1,6 @@
 #section-home{
     margin-top: 4rem;
-    background-color: rgb(205, 205, 228);
+    background-color: #ffbd59;
     display: flex;
     flex-direction: column;
     padding: 2rem;
@@ -14,5 +14,9 @@
 }
 #section-home> img{
     border-radius: 1rem;
+    margin-bottom: 2rem;
+    animation:brilhar 2s infinite ;
+    
+  
     
 }

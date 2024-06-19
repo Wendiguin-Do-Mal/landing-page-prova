@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/rules-of-hooks */
 import { useState } from "react";
 import "./style.css"
 
@@ -7,6 +8,7 @@ function form() {
         const [email, setEmail] = useState<string>('');
         const [tel, setTel] = useState<number | string>('');
         const [engine, setEngine] = useState<string>('');
+    
         const [specialization, setSpecialization] = useState<string>('');
 
        
@@ -15,8 +17,8 @@ function form() {
 
   return (<>
     <section id="section-form" className="box-default">
-      <h2 className="h2-default">Cadastre e participe agora mesmo!</h2>
-      <p className="p-default">Entre nessa aventura e mostre do que você é capaz!!!</p>
+      <h2 className="h1-default">Cadastre e participe agora mesmo!</h2>
+      <p className="h2-default">Entre nessa aventura e mostre do que você é capaz!!!</p>
       <form action="submit" >
         <fieldset className="fieldset-form">
           <label htmlFor="name" >Nome:</label>
